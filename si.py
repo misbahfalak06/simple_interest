@@ -6,7 +6,6 @@ if len(sys.argv) == 4:
     time=sys.argv[3]
     print("user provided inputs")
 else:
-    script_name=sys.argv[0]
     principle="1000"
     rate="5"
     time="3"
