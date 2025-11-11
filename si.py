@@ -1,6 +1,6 @@
 import sys
 if len(sys.argv) == 4:
-    script_name=sys.argv[0]
+
     principle=sys.argv[1]
     rate=sys.argv[2]
     time=sys.argv[3]
