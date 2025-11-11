@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) == 4:
+if len(sys.argv) == 3:
 
     principle=sys.argv[1]
     rate=sys.argv[2]
